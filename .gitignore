@@ -6,3 +6,7 @@ deployment/dev/terraform-azure/terraform.tfstate.backup
 deployment/dev/terraform-azure/terraform.tfstate
 deployment/dev/terraform-azure/.terraform/
 deployment/dev/terraform-azure/ssh-key/
+deployment/dev/terraform-aws/terraform.tfstate.backup
+deployment/dev/terraform-aws/terraform.tfstate
+deployment/dev/terraform-aws/variables.tf
+deployment/dev/terraform-aws/.terraform/
